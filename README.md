@@ -1,2 +1,2 @@
 "# induducaoWeb" 
-visite em :<a href="https://dienifer12.github.io/induducaoWeb/>cliq2ue aqui</a>
+visite em :<a href="https://dienifer12.github.io/induducaoWeb/>clique aqui</a>
